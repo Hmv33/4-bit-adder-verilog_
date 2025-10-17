@@ -33,4 +33,4 @@ This project strengthened my understanding of:
 - Testbench development and verification processes  
 
 ## 🔗 Repository Link
-(https://github.com/Hmv33/4-bit-adder-verilog_)
+https://github.com/Hmv33/4-bit-adder-verilog_
