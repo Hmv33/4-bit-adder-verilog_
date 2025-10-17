@@ -34,4 +34,4 @@ This project strengthened my understanding of:
 
 ## 🔗 Repository Link
 (Replace this line with your repo link once it’s public, e.g.)  
-**https://github.com/yourusername/4-bit-adder-verilog**
+**https://github.com/yourusername/4-bit-adder-verilog](https://github.com/Hmv33/4-bit-adder-verilog_**
